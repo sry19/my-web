@@ -1,7 +1,7 @@
 import React from 'react';
-import NavBar from './NavBar.jsx';
-import Footer from './Footer.jsx';
-import Contents from './Contents.jsx';
+import NavBar from './NavBar.js';
+import Footer from './Footer.js';
+import Contents from './Contents.js';
 // import { LinkContainer } from 'react-router-bootstrap';
 
 export default class Page extends React.Component {
